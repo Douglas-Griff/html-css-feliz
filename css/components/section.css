@@ -4,3 +4,11 @@
     padding-bottom: 100px;
     border-bottom: 10px solid #2B1F72;
 }
+
+.section .main-title {
+    margin-bottom: 60px;
+}
+
+.section.-black {
+    background-color: black;
+}
