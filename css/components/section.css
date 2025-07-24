@@ -9,6 +9,7 @@
     margin-bottom: 60px;
 }
 
-.section.-black {
+.section.-vSection {
     background-color: black;
+    border-color: #3A52CA;
 }
